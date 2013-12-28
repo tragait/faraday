@@ -1,0 +1,34 @@
+Dec 27, 2013 7:26:10 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:/Program Files/Java/jdk1.6.0_16/bin/../jre/bin/client;C:/Program Files/Java/jdk1.6.0_16/bin/../jre/bin;C:/Program Files/Java/jdk1.6.0_16/bin/../jre/lib/i386;C:\Program Files\Java\jdk1.6.0_16\bin;E:\technical\softs java\apache-maven-3.0.3\bin;C:\Program Files\PC Connectivity Solution\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Windows Live\Shared;C:\Program Files\TortoiseSVN\bin;E:\technical\softs java\apache-ant-1.9.2\bin;;.
+Dec 27, 2013 7:26:11 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 27, 2013 7:26:12 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 27, 2013 7:26:12 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1614 ms
+Dec 27, 2013 7:26:12 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 27, 2013 7:26:12 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.40
+Dec 27, 2013 7:26:12 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\conf\Catalina\localhost\ROOT.xml
+Dec 27, 2013 7:28:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\marketplace-portlet
+Dec 27, 2013 7:28:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\portal-compat-hook
+Dec 27, 2013 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\resources-importer-web
+Dec 27, 2013 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\welcome-theme
+Dec 27, 2013 7:28:19 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 27, 2013 7:28:19 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 27, 2013 7:28:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 127928 ms
+Dec 27, 2013 7:54:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\liferay-portlet
+Dec 27, 2013 8:36:02 PM org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/liferay-portlet]
+Dec 27, 2013 8:36:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\technical\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps\liferay-portlet
