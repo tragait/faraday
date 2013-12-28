@@ -1,0 +1,4 @@
+faraday-trunk
+=============
+
+Faraday workspace
