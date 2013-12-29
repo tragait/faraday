@@ -274,8 +274,8 @@
 			newenvironment="true"
 			outputproperty="build-service.output"
 		>
-			<jvmarg value="-Xms512m" />
-			<jvmarg value="-Xmx1024m" />
+			<jvmarg value="-Xms128m" />
+			<jvmarg value="-Xmx512m" />
 			<jvmarg value="-Xss2048k" />
 			<jvmarg value="-XX:MaxPermSize=512m" />
 			<arg value="-Dexternal-properties=com/liferay/portal/tools/dependencies/portal-tools.properties" />

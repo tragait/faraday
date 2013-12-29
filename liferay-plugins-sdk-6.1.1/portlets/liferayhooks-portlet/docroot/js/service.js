@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.service", "com.test.service", "liferayhooks-portlet");
